@@ -1,0 +1,1 @@
+creating a script shell_variables_expansions
